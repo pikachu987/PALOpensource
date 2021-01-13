@@ -1,6 +1,5 @@
 # PALOpensource
 
-[![CI Status](https://img.shields.io/travis/pikachu987/PALOpensource.svg?style=flat)](https://travis-ci.org/pikachu987/PALOpensource)
 [![Version](https://img.shields.io/cocoapods/v/PALOpensource.svg?style=flat)](https://cocoapods.org/pods/PALOpensource)
 [![License](https://img.shields.io/cocoapods/l/PALOpensource.svg?style=flat)](https://cocoapods.org/pods/PALOpensource)
 [![Platform](https://img.shields.io/cocoapods/p/PALOpensource.svg?style=flat)](https://cocoapods.org/pods/PALOpensource)
