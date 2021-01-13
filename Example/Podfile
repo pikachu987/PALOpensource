@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PALOpensource_Example' do
+  pod 'PALOpensource', :path => '../'
+
+  target 'PALOpensource_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

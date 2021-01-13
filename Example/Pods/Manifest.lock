@@ -1,0 +1,16 @@
+PODS:
+  - PALOpensource (0.1.0)
+
+DEPENDENCIES:
+  - PALOpensource (from `../`)
+
+EXTERNAL SOURCES:
+  PALOpensource:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PALOpensource: 8eab6426f29d728a186c4a5eedc3d7fa504a8ab2
+
+PODFILE CHECKSUM: c16c24b31dc90ef00361d9d54ae0d4f01896da52
+
+COCOAPODS: 1.10.0
