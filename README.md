@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/PALOpensource.svg?style=flat)](https://cocoapods.org/pods/PALOpensource)
 [![License](https://img.shields.io/cocoapods/l/PALOpensource.svg?style=flat)](https://cocoapods.org/pods/PALOpensource)
 [![Platform](https://img.shields.io/cocoapods/p/PALOpensource.svg?style=flat)](https://cocoapods.org/pods/PALOpensource)
+![](https://img.shields.io/badge/Supported-iOS9%20%7C%20OSX%2010.9-4BC51D.svg?style=flat-square)
+![](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)
 
 ## Example
 
